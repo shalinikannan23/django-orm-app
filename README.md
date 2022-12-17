@@ -7,7 +7,7 @@ Mapping(ORM).
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+![ENTITY](./images/bankaccout details.png)
 
 ## DESIGN STEPS
 
@@ -49,7 +49,7 @@ from .models import BankAccountMember,BankAccountAdmin
 admin.site.register(BankAccountMember,BankAccountAdmin)
 ```
 ## OUTPUT
-
+![OUTPUT](./images/bankaccount.png)
 
 
 ## RESULT
