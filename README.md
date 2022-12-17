@@ -1,13 +1,13 @@
 # Django ORM Web Application
 
 ## AIM
-To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).To develop a Django application to store and retrieve data from a database using Object Relational
+To develop a Django application to store and retrieve data from a database using Object Relational
 Mapping(ORM).
 
 
 ## Entity Relationship Diagram
 
-![ENTITY](./images/bankaccout details.png)
+![ENTITY](./images/bankaccount details.png)
 
 ## DESIGN STEPS
 
