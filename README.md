@@ -7,7 +7,7 @@ Mapping(ORM).
 
 ## Entity Relationship Diagram
 
-![ENTITY](./images/bankaccount details.png)
+![ENTITY](./images/entity.png)
 
 ## DESIGN STEPS
 
